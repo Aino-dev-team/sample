@@ -2,7 +2,7 @@
 
 This is a sample bot built by Microsoft. We will use it as skeleton to build our Aino sample bot.
 
-## How to use it (The instructions will be for windows, if you need it for anothre OS, please message me)
+## How to use it (The instructions will be for windows, if you need it for another OS, please message me)
 
 1. Install git [link]https://git-scm.com/download/win
 2. Install Node [link]https://nodejs.org/en/download/
